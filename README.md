@@ -9,11 +9,12 @@
 ## Hero Section
 - changed container div tag to nav tag
 
-## Content Section
+## Services Section
 - changed container div tag to section tag
 - changed service containers to article tags
 - added id to article tag for "search engine optimization" service
 - added alt tags to images
+- renamed class from "content" to "services" to be more readable
 
 ## Benefits Section
 - changed container div tag to section tag
@@ -22,3 +23,8 @@
 
 ## footer Section
 - changed container div tag to footer tag
+
+## CSS
+- renamed content class to services class
+- organized declarations and grouped them by sections
+- sections are denoted by comments
