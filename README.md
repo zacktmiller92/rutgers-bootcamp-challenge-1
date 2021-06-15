@@ -14,3 +14,11 @@
 - changed service containers to article tags
 - added id to article tag for "search engine optimization" service
 - added alt tags to images
+
+## Benefits Section
+- changed container div tag to section tag
+- changed benefit containers to article tags
+- added alt tags to images
+
+## footer Section
+- changed container div tag to footer tag
