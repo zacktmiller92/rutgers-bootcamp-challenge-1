@@ -21,7 +21,7 @@
 - changed benefit containers to article tags
 - added alt tags to images
 
-## footer Section
+## Footer Section
 - changed container div tag to footer tag
 
 ## CSS
